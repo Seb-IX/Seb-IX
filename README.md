@@ -76,21 +76,32 @@ Information about this course can be found on the website <a href="https://openc
 
 - <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/Seb-IX/Projet_5">(Unsupervised model, Clustering with KMean / DBScan)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_5/blob/main/Solution/POLIST_02_notebookessais.ipynb" style="color: green;">details here</a></p>
 
+- <p style="font-size:18px; ">Recommandation systems implemented in mobil app <a href="https://github.com/Seb-IX/Projet_9">(recommandation systems, Content based & filtering)</a>, <a href="https://github.com/Seb-IX/Projet_9/blob/main/Solution/script/P09_recommandation_system.ipynb" style="color: green;">details here</a></p>
+
+
+
 ## Deep Learning
+
 ### Natural Language Processing (NLP)
-- 
-- 
+- <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/Seb-IX/Projet_5">(Unsupervised model, Clustering with KMean / DBScan)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_5/blob/main/Solution/POLIST_02_notebookessais.ipynb" style="color: green;">details here</a></p>
+
+- <p style="font-size:18px; ">Search of the topics of unsatisfactions users <a href="https://github.com/Seb-IX/Projet_6">(Topic modeling, LDA)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_6/blob/main/Solution/script/P06_synthese.ipynb#NLP" style="color: green;">details here</a>, <a href="https://avis-restau-oc.herokuapp.com/">web site (wait loading page cold start server...)</a></p>
+- <p style="font-size:18px; ">Sentiment analysis on tweet to prevent Bad Buzz <a href="https://github.com/Seb-IX/Projet_7">(Data mining, DL, RNN, LSTM, GLove, Word2Vec, BERT)</a>, <a href="https://github.com/Seb-IX/Projet_7/blob/main/Solution/script/P07_mod%C3%A9lisation_avanc%C3%A9.ipynb" style="color: green;">details here</a></p>
+
+- <p style="font-size:18px; ">Chatbot to book flight from <a href="https://github.com/Seb-IX/Projet_10">(Language Understanding, LUIS Azure, BotFramework)</a>, <a href="https://github.com/Seb-IX/Projet_10/blob/main/Solution/luis_solution/P10_train_luis.ipynb" style="color: green;">details here</a></p>
+
 
 ### Computer vision
 
-- 
-- 
+- <p style="font-size:18px; ">Automatic image classification <a href="https://github.com/Seb-IX/Projet_6">(Labelisation, CNN, SIFT, Clustering)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_6/blob/main/Solution/script/P06_synthese.ipynb#CV" style="color: green;">details here</a>, <a href="https://avis-restau-oc.herokuapp.com/">web site (wait loading page cold start server...)</a></p>
+
+- <p style="font-size:18px; ">Semantic segmentation for autonomus vehicule <a href="https://github.com/Seb-IX/Projet_8">(Semantic segmenation, data augmentation, Unet, FPN)</a>, <a href="https://github.com/Seb-IX/Projet_8/blob/main/Solution/script/P08_modelisation.ipynb" style="color: green;">details here</a></p>
 
 ## Cloud / MLOps (Azure)
 
-- 
-- 
-- 
+- <p style="font-size:18px; ">Azure cognitive service to language detection<a href="https://github.com/Seb-IX/Projet_1">(Azure, cognitive service, text analytics)</a>, <a href="https://github.com/Seb-IX/Projet_1/blob/main/Solution/P01_01_script.ipynb" style="color: green;">details here</a>, <a href="https://github.com/Seb-IX/Projet_1/blob/main/Solution/python_script/P01_01_script.py">or python script</a></p>
+- <p style="font-size:18px; ">Advenced model deployed and inferenceand inference to azure machine learning <a href="https://github.com/Seb-IX/Projet_7/blob/main/Solution/script/P07_deployement.ipynb">(Azure, Azure Machine Learning, MLOps, inference)</a>, <a href="https://airparadisp07oc.z28.web.core.windows.net/">web site explains how deployment works on Azure</a></p>
+- <p style="font-size:18px; ">Low code model with Azure Machine Learning <a href="https://github.com/Seb-IX/Projet_7/blob/main/Solution/script/P07_azure_ml_studio.ipynb">(Azure, Azure Machine Learning, MLOps, Low Code)</a>, <a href="https://airparadisp07oc.z28.web.core.windows.net/">web site explains how deployment works on Azure</a></p>
 - 
 - 
 - 
