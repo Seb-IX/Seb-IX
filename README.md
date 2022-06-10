@@ -1,6 +1,11 @@
-# Hello world! 👋
-## About me
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=FFFFFFDA&background=181818FF&vCenter=true&width=500&height=30&lines=%3E++Hi%2C+I'm+TUCCIO+S%C3%A9bastien+)
+I am passionate about all things computer, from setup creation, application development, management, and most recently data science.
 
+This Github presents my projects from my last degree in AI Engineering, it allowed me to develop many Hard Skill allowing me to touch a large part of the Data Science area from data analysis, data visualization, machine learning, NLP and computer vision.
+
+This training is in collaboration with Microsoft, I was also able to implement the complete cycle of a MLOps project with Microsoft Azure and its different components.
+
+Information about this course can be found on the website <a href="https://openclassrooms.com/fr/paths/188-ingenieur-ia">openclassrooms.com</a>.
 
 ## Hard skill
 ### Data science
@@ -58,17 +63,68 @@
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
 ![Affinity publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D.svg?style=for-the-badge&logo=Affinity-Publisher&logoColor=white)
 
-# Overview projets
+# Overview projets💻
+
+## Data analysis and visualization
+
+- <p style="font-size:18px;">Analysis of the trees of the city of Paris for an optimization of the maintenance of the trees of the city <a href="https://github.com/Seb-IX/Projet_2">(Univariate Analysis)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_2/blob/main/Solution/P02_01_notebook.ipynb" style="color: green;">details here</a></p>
+
+- <p style="font-size:18px; ">Data preparation for a public health organization <a href="https://github.com/Seb-IX/Projet_3">(Mulitvariate Analysis)</a>, <a href="https://github.com/Seb-IX/Projet_3/blob/main/Solution/P03_01_notebook.ipynb" style="color: green;">details here</a></p>
+
+## Machine Learning
+- <p style="font-size:18px; ">Credit scoring model <a href="https://github.com/Seb-IX/Projet_4">(Classification model with imbalanced data)</a>, <a href="https://nbviewer.jupyter.org/github/Seb-IX/Projet_4/blob/main/Solution/P04_01_notebook.ipynb" style="color: green;">details here</a></p>
+
+- <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/Seb-IX/Projet_5">(Unsupervised model, Clustering with KMean / DBScan)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_5/blob/main/Solution/POLIST_02_notebookessais.ipynb" style="color: green;">details here</a></p>
+
+## Deep Learning
+### Natural Language Processing (NLP)
+- 
+- 
+
+### Computer vision
+
+- 
+- 
+
+## Cloud / MLOps (Azure)
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+## GDPR / Project management
+
+- 
 
 
-
-# Social media
+# Social media 🌐
 
 <p>
 <a href="https://github.com/Seb-IX" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/sébastien-tuccio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.codingame.com/profile/1c58e3477341349faa40921f7779a3888963812"><img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black"></a>
-
 </p>
 
+# My computer setup 🤗
 
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seb-IX)
+
+-->
+- AMD Thredripper 3990X (64 cores / 128 thread, 2.9Ghz / 4.3Ghz)
+- SLI EVGA GeForce RTX 3090 FTW3 Ultra Gaming
+- 256 Go RAM Corsair Dominator Platinum RGB DDR4 3200 CL16
+- Motherborad Gigabyte TRX40 AORUS XTREME
+- Alim Corsair AX1600i 80Plus Titanium
+- 17 Fans EK-Vardar EVO 140ER Black BB
+- Hard tubing
+- EKWB cooling (1 Pump & 1 reservoirs plate with pump, 2 radiators, GPU & CPU wartblock)
+- Case Phanteks Enthoo Elite
+
+<p>
+<img alt="setup_top_view" src="https://github.com/Seb-IX/Seb-IX/setup_top_view.jpg" style="height:500px;">
+<img alt="setup_bottom_view" src="https://github.com/Seb-IX/Seb-IX/setup_bottom_view.jpg" style="height:500px">
+</p>
