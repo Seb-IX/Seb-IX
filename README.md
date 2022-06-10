@@ -125,6 +125,6 @@ Information about this course can be found on the website <a href="https://openc
 - Case Phanteks Enthoo Elite
 
 <p>
-<img alt="setup_top_view" src="https://github.com/Seb-IX/Seb-IX/setup_top_view.jpg" style="height:500px;">
-<img alt="setup_bottom_view" src="https://github.com/Seb-IX/Seb-IX/setup_bottom_view.jpg" style="height:500px">
+<img alt="setup_top_view" src="https://github.com/Seb-IX/Seb-IX/blob/main/setup_top_view.jpg" style="height:500px;">
+<img alt="setup_bottom_view" src="https://github.com/Seb-IX/Seb-IX/blob/main/setup_bottom_view.jpg" style="height:500px">
 </p>
