@@ -68,16 +68,16 @@ Information about this degree can be found on the website <a href="https://openc
 
 ## Data analysis and visualization 📊
 
-- <p style="font-size:18px;">Analysis of the trees of the city of Paris for an optimization of the maintenance of the trees of the city <a href="https://github.com/Seb-IX/Projet_2">(Univariate Analysis)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_2/blob/main/Solution/P02_01_notebook.ipynb">details here</a></p>
+- <p style="font-size:18px;">Analysis of the trees of the city of Paris for an optimization of the maintenance of the trees of the city <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_2">(Univariate Analysis)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_2/blob/main/Solution/P02_01_notebook.ipynb">details here</a></p>
 
-- <p style="font-size:18px; ">Data preparation for a public health organization <a href="https://github.com/Seb-IX/Projet_3">(Mulitvariate Analysis)</a>, <a href="https://github.com/Seb-IX/Projet_3/blob/main/Solution/P03_01_notebook.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Data preparation for a public health organization <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_3">(Mulitvariate Analysis)</a>, <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_3/blob/main/Solution/P03_01_notebook.ipynb" >details here</a></p>
 
 ## Machine Learning 🦾
-- <p style="font-size:18px; ">Credit scoring model <a href="https://github.com/Seb-IX/Projet_4">(Classification model with imbalanced data)</a>, <a href="https://nbviewer.jupyter.org/github/Seb-IX/Projet_4/blob/main/Solution/P04_01_notebook.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Credit scoring model <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_4">(Classification model with imbalanced data)</a>, <a href="https://nbviewer.jupyter.org/github/Seb-IX/Archive_OC/tree/main/Projet_4/blob/main/Solution/P04_01_notebook.ipynb" >details here</a></p>
 
-- <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/Seb-IX/Projet_5">(Unsupervised model, Clustering with KMean / DBScan)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_5/blob/main/Solution/POLIST_02_notebookessais.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_5">(Unsupervised model, Clustering with KMean / DBScan)</a>, <a href="https://nbviewer.org/github/Seb-IX/Archive_OC/tree/main/Projet_5/blob/main/Solution/POLIST_02_notebookessais.ipynb" >details here</a></p>
 
-- <p style="font-size:18px; ">Recommandation systems implemented in mobil app <a href="https://github.com/Seb-IX/Projet_9">(recommandation systems, Content based & filtering)</a>, <a href="https://github.com/Seb-IX/Projet_9/blob/main/Solution/script/P09_recommandation_system.ipynb">details here</a></p>
+- <p style="font-size:18px; ">Recommandation systems implemented in mobil app <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_9">(recommandation systems, Content based & filtering)</a>, <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_9/blob/main/Solution/script/P09_recommandation_system.ipynb">details here</a></p>
 
 
 
@@ -86,31 +86,31 @@ Information about this degree can be found on the website <a href="https://openc
 ### Natural Language Processing (NLP)
 
 
-- <p style="font-size:18px; ">Search of the topics of unsatisfactions users <a href="https://github.com/Seb-IX/Projet_6">(Topic modeling, LDA)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_6/blob/main/Solution/script/P06_synthese.ipynb#NLP" >details here</a>, <a href="https://avis-restau-oc.herokuapp.com/">web site (wait loading page cold start server...)</a></p>
-- <p style="font-size:18px; ">Sentiment analysis on tweet to prevent Bad Buzz <a href="https://github.com/Seb-IX/Projet_7">(Data mining, DL, RNN, LSTM, GLove, Word2Vec, BERT)</a>, <a href="https://github.com/Seb-IX/Projet_7/blob/main/Solution/script/P07_mod%C3%A9lisation_avanc%C3%A9.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Search of the topics of unsatisfactions users <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_6">(Topic modeling, LDA)</a>, <a href="https://nbviewer.org/github/Seb-IX/Archive_OC/tree/main/Projet_6/blob/main/Solution/script/P06_synthese.ipynb#NLP" >details here</a></p>
+- <p style="font-size:18px; ">Sentiment analysis on tweet to prevent Bad Buzz <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_7">(Data mining, DL, RNN, LSTM, GLove, Word2Vec, BERT)</a>, <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_7/blob/main/Solution/script/P07_mod%C3%A9lisation_avanc%C3%A9.ipynb" >details here</a></p>
 
-- <p style="font-size:18px; ">Chatbot to book flight from <a href="https://github.com/Seb-IX/Projet_10">(Language Understanding, LUIS Azure, BotFramework)</a>, <a href="https://github.com/Seb-IX/Projet_10/blob/main/Solution/luis_solution/P10_train_luis.ipynb">details here</a></p>
+- <p style="font-size:18px; ">Chatbot to book flight from <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_10">(Language Understanding, LUIS Azure, BotFramework)</a>, <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_10/blob/main/Solution/luis_solution/P10_train_luis.ipynb">details here</a></p>
 
 
 ### Computer vision
 
-- <p style="font-size:18px; ">Automatic image classification <a href="https://github.com/Seb-IX/Projet_6">(Labelisation, CNN, SIFT, Clustering)</a>, <a href="https://nbviewer.org/github/Seb-IX/Projet_6/blob/main/Solution/script/P06_synthese.ipynb#CV" >details here</a>, <a href="https://avis-restau-oc.herokuapp.com/">web site (wait loading page cold start server...)</a></p>
+- <p style="font-size:18px; ">Automatic image classification <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_6">(Labelisation, CNN, SIFT, Clustering)</a>, <a href="https://nbviewer.org/github/Seb-IX/Archive_OC/tree/main/Projet_6/blob/main/Solution/script/P06_synthese.ipynb#CV" >details here</a></p>
 
 - <p style="font-size:18px; ">Semantic segmentation for autonomus vehicule <a href="https://github.com/Seb-IX/Projet_8">(Semantic segmenation, data augmentation, Unet, FPN)</a>, <a href="https://github.com/Seb-IX/Projet_8/blob/main/Solution/script/P08_modelisation.ipynb">details here</a></p>
 
 ## Cloud / MLOps (Azure) 	☁️
 
-- <p style="font-size:18px; ">Azure cognitive service to language detection<a href="https://github.com/Seb-IX/Projet_1">(Azure, cognitive service, text analytics)</a>, <a href="https://github.com/Seb-IX/Projet_1/blob/main/Solution/P01_01_script.ipynb" >details here</a>, <a href="https://github.com/Seb-IX/Projet_1/blob/main/Solution/python_script/P01_01_script.py">or python script</a></p>
-- <p style="font-size:18px; ">Advenced model deployed and inferenceand inference to azure machine learning <a href="https://github.com/Seb-IX/Projet_7/blob/main/Solution/script/P07_deployement.ipynb">(Azure, Azure Machine Learning, MLOps, inference)</a>, <a href="https://airparadisp07oc.z28.web.core.windows.net/">web site explains how deployment works on Azure</a></p>
-- <p style="font-size:18px; ">Low code model with Azure Machine Learning <a href="https://github.com/Seb-IX/Projet_7/blob/main/Solution/script/P07_azure_ml_studio.ipynb">(Azure, Azure Machine Learning, MLOps, Low Code)</a></p>
-- <p style="font-size:18px; ">Train & Deployed semantic segmentation model <a href="https://github.com/Seb-IX/Projet_8/blob/main/Solution/script/P08_azure.ipynb">(Azure, Azure Machine Learning, MLOps, Azure Dataset)</a></p>
+- <p style="font-size:18px; ">Azure cognitive service to language detection<a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_1">(Azure, cognitive service, text analytics)</a>, <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_1/blob/main/Solution/P01_01_script.ipynb" >details here</a>, <a href="https://github.com/Seb-IX/Projet_1/blob/main/Solution/python_script/P01_01_script.py">or python script</a></p>
+- <p style="font-size:18px; ">Advenced model deployed and inferenceand inference to azure machine learning <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_7/blob/main/Solution/script/P07_deployement.ipynb">(Azure, Azure Machine Learning, MLOps, inference)</a>, <a href="https://airparadisp07oc.z28.web.core.windows.net/">web site explains how deployment works on Azure</a></p>
+- <p style="font-size:18px; ">Low code model with Azure Machine Learning <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_7/blob/main/Solution/script/P07_azure_ml_studio.ipynb">(Azure, Azure Machine Learning, MLOps, Low Code)</a></p>
+- <p style="font-size:18px; ">Train & Deployed semantic segmentation model <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_8/blob/main/Solution/script/P08_azure.ipynb">(Azure, Azure Machine Learning, MLOps, Azure Dataset)</a></p>
 
-- <p style="font-size:18px; ">LUIS solution implemented for chatbot with Bot Frameworkd SDK <a href="https://github.com/Seb-IX/Projet_1">(Azure, cognitive service LUIS, luis.ai)</a>, <a href="https://github.com/Seb-IX/Projet_10/blob/main/Solution/luis_solution/P10_train_luis.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">LUIS solution implemented for chatbot with Bot Frameworkd SDK <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_1">(Azure, cognitive service LUIS, luis.ai)</a>, <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_10/blob/main/Solution/luis_solution/P10_train_luis.ipynb" >details here</a></p>
 
 
 ## GDPR / Project management ⚖️
 
-- <p style="font-size:18px; ">Management AI Project <a href="https://github.com/Seb-IX/Projet_11">(GDPR, risk, plan, scrum method...)</a></p>
+- <p style="font-size:18px; ">Management AI Project <a href="https://github.com/Seb-IX/Archive_OC/tree/main/Projet_11">(GDPR, risk, plan, scrum method...)</a></p>
 
 
 # Social media 🌐
@@ -140,10 +140,6 @@ Information about this degree can be found on the website <a href="https://openc
 <p>
 <img alt="setup_top_view" src="https://github.com/Seb-IX/Seb-IX/blob/main/setup_top_view.jpg" style="height:500px;">
 <img alt="setup_bottom_view" src="https://github.com/Seb-IX/Seb-IX/blob/main/setup_bottom_view.jpg" style="height:500px">
-</p> -->
-
-
-
-<!--
+</p> 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seb-IX)
 -->
